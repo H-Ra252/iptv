@@ -1,4 +1,4 @@
-# iptv
+00 # iptv
 # 软件仅供个人测试使用，请勿流传或贩卖。
 ---
 <br>
@@ -110,7 +110,7 @@ https://leezn.github.io/TVBox/js.json
 
 
 #### 下载地址：
-https://raw.githubusercontent.com/skysolf/iptv/main/TVLauncher v3.1.1.apk
+https://raw.githubusercontent.com/skysolf/iptv/main/TVLauncher%20v3.1.1.apk
 
 #### 界面如图：
 
