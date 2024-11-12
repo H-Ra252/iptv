@@ -110,7 +110,7 @@ https://leezn.github.io/TVBox/js.json
 
 
 #### 下载地址：
-https://github.com/skysolf/iptv/blob/main/TVLauncher%20v3.1.1.apk
+https://raw.githubusercontent.com/skysolf/iptv/main/TVLauncher v3.1.1.apk
 
 #### 界面如图：
 
